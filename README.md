@@ -1,4 +1,5 @@
 # ![logo](fluentbit_logo.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsunilchadha1973%2Ffluent-bit.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsunilchadha1973%2Ffluent-bit?ref=badge_shield)
 
 ### CI Status
 
@@ -183,6 +184,9 @@ Feel free to join us on our Slack channel, Mailing List or IRC:
 ## License
 
 This program is under the terms of the [Apache License v2.0](http://www.apache.org/licenses/LICENSE-2.0).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsunilchadha1973%2Ffluent-bit.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsunilchadha1973%2Ffluent-bit?ref=badge_large)
 
 ## Authors
 
